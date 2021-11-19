@@ -1,0 +1,11 @@
+.card {
+  width: 30%;
+  height: 75vh;
+  padding: 12px;
+  background-color: hsl(216, 50%, 16%);
+}
+
+.nft-image {
+  height: 50%;
+  aspect-ratio: 1;
+}
